@@ -10,7 +10,10 @@ Run command:
 
 Example config file:
 ```
-Host pi
-Hostname = 172.16.10.4
+Host rockpro
+Hostname = 192.168.0.25
 User = userone
 ```
+
+Example SSH login command:
+`ssh rockpro`
