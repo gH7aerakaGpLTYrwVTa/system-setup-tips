@@ -9,6 +9,8 @@ Run command:
 `sudo nano ~/.ssh/config`
 
 Example config file:
-```Host pi
+```
+Host pi
 Hostname = 172.16.10.4
-User = userone```
+User = userone
+```
