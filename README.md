@@ -1,2 +1,5 @@
 # setup-tips
-Quick tips
+Make sure:
+`git config pull.rebase true`
+
+
